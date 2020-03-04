@@ -26,4 +26,4 @@ New matrix:
 4 41,00
 6 117,50
 ```
-![srcreenshot](screenshot1.png)
+![srcreenshot](screenshot.png)
